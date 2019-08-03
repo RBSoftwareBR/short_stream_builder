@@ -1,6 +1,6 @@
 # short_stream_builder
 
-Stream Builder Short Version, for those who wanna go fast.
+Stream Builder Short Version, for those who wan go fast. :D
 
 ## Getting Started
 
