@@ -1,8 +1,8 @@
 name: short_stream_builder
 description: Stream Builder Short Version, for those who wanna go fast.
 version: 0.0.1
-author:
-homepage:
+author: Renato Augusto Bosa Filho <contatorbsoftware@gmail.com>
+homepage: https://github.com/RBSoftwareBR/short_stream_builder
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
